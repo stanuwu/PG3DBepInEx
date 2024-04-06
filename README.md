@@ -3,6 +3,7 @@
 </p>
 
 # BepInEx
+> Forked version for PixelGun3D Decrypted Meta
 
 ![Github All Releases](https://img.shields.io/github/downloads/bepinex/bepinex/total.svg)
 ![GitHub release](https://img.shields.io/github/release/bepinex/bepinex.svg)
