@@ -285,7 +285,7 @@ internal static partial class Il2CppInteropManager
                                         $"{Paths.ProcessName}_Data",
                                         "il2cpp_data",
                                         "Metadata",
-                                        "global-metadata.dat");
+                                        "global-metadata-decrypted.dat");
 
         var stopwatch = new Stopwatch();
         stopwatch.Start();
